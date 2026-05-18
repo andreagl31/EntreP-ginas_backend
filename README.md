@@ -405,7 +405,7 @@ mvn spring-boot:run
 Documentación disponible en:
 
 ```txt
-http://localhost:8080/swagger-ui/index.html
+http://localhost:8081/swagger-ui/index.html
 ```
 
 Swagger incluye autenticación JWT integrada.
@@ -588,22 +588,6 @@ mvn test
 
 ---
 
-# 🔮 Mejoras futuras
-
-- MySQL o PostgreSQL
-- Docker
-- Refresh Tokens
-- Paginación
-- Buscador avanzado
-- Sistema de reseñas
-- Portadas de libros
-- Deploy en la nube
-- Frontend React/Angular
-- Recuperación de contraseña
-- Logs y monitorización
-
----
-
 # 👨‍💻 Autor
 
-Proyecto desarrollado como práctica de backend utilizando Spring Boot, JWT y arquitectura REST.
+Proyecto desarrollado como práctica de Andrea González Llamas de backend utilizando Spring Boot, JWT y arquitectura REST.
